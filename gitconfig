@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yutinglee51@gmail.com
+	name = Yuting Lee
